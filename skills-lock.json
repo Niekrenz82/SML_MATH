@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "matplotlib-best-practices": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "matplotlib-best-practices/SKILL.md",
+      "computedHash": "806bbd19dbd0eec6af5eef7b5e66f5b2540150680cc179f862855c7f883690db"
+    }
+  }
+}
